@@ -1,3 +1,7 @@
+# 唐西良的简历
+
+[resume.txliang.com](http://resume.txliang.com)
+
 ## 一份优雅简约的简历
 - 优化构建，页面秒开无闪烁
 - 自适应屏幕兼容移动端
